@@ -1,5 +1,11 @@
-# ewhanley.github.io
+# ewhanley.github.io - Website for CSPB 3122
 
-### webpage for CSPB 3112
+## Table of Contents
 
-**This is still very much a work in progress**
+* [Project Description](#project_description)
+* [Weekly Updates](#weekly_updates)
+* Repo containing tutorial/handbook artifacts
+
+
+
+
