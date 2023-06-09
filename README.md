@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Project Description](#project_description)
-* [Weekly Updates](#weekly_updates)
+* [Project Description](project_description.md)
+* [Weekly Updates](weekly_updates.md)
 * Repo containing tutorial/handbook artifacts
 
 
