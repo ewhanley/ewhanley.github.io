@@ -28,16 +28,14 @@ Note: The specifics of the application with be determined in the first few weeks
 
 ### Risks:
 
-Falling behind on coursework chapters or getting stuck in unfamiliar material and concepts
-Struggling to settle on an application idea
-Getting stuck in tutorial land without actually applying the concepts I've learned in a new context thus actually learning
-Mitigation Strategies:
+* Falling behind on coursework chapters or getting stuck in unfamiliar material and concepts
+* Getting stuck in tutorial land without actually applying the concepts I've learned in a new context thus actually learning
+
+### Mitigation Strategies:
 
 * I am starting a new job and the risk of falling behind is very real. To mitigate this risk, I will schedule regular time slots to work through each chapter and document (with links) the specifics of what I covered each week
 * I will begin the process of sketching out the application specifics early in the semester. This will accomplish two things:
 * I will have a more specific idea and sense of where I need to focus in the docs/handbook
-* I can avoid building a line-for-line application from a tutorial and instead adapt what I've learned to a novel variation
-* I will create a new app that requires me to apply the concepts learned in the handbook/tutorials but adapted to a problem that's not identical to a tutorial
 
 
 ### Project Assessments:
