@@ -42,4 +42,3 @@ Note: The specifics of the application with be determined in the first few weeks
 
 * I will document each week's chapter in a github repo containing the work completed as I follow along
 * I will document on the project site the specific readings/videos I work through each week
-* I will document the app and complete either a recorded demo or a live site that will be accessible to the class. App development will be available via a Github repo.
