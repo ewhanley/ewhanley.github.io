@@ -1,7 +1,7 @@
 # Weekly Project Updates
 
 ### Week 3 (2023-06-05 -- 2023-06-11)
-I started working through the LangChain Handbook this week. I read Chapter 1 and worked along in a Jupyter notebook. I created a GitHub repo to capture my progress through the text. The notebook I created for Chapter 1 can be found [here] (https://github.com/ewhanley/langchain_handbook/blob/main/chapter_1.ipynb).
+I started working through the LangChain Handbook this week. I read Chapter 1 and worked along in a Jupyter notebook. I created a GitHub repo to capture my progress through the text. The notebook I created for Chapter 1 can be found [here](https://github.com/ewhanley/langchain_handbook/blob/main/chapter_1.ipynb).
 
 
 ### Week 2 (2023-05-29 -- 2023-06-04)
