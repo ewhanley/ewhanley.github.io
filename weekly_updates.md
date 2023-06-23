@@ -1,5 +1,8 @@
 # Weekly Project Updates
 
+### Week 4 (2023-06-12 -- 2023-06-18
+I did not hit all of my goals this week. I was able to read through Chapter 2 of the LangChain handbook, but I did not complete a Jupyter notebook of the tutorial material.
+
 ### Week 3 (2023-06-05 -- 2023-06-11)
 I started working through the LangChain Handbook this week. I read Chapter 1 and worked along in a Jupyter notebook. I created a GitHub repo to capture my progress through the text. The notebook I created for Chapter 1 can be found [here](https://github.com/ewhanley/langchain_handbook/blob/main/chapter_1.ipynb).
 
