@@ -4,7 +4,7 @@
 
 * [Project Description](project_description.md)
 * [Weekly Updates](weekly_updates.md)
-* Repo containing tutorial/handbook artifacts
+* [Repo containing tutorial/handbook artifacts](https://github.com/ewhanley/langchain_handbook)
 
 
 
