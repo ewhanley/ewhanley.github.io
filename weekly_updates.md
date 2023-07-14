@@ -1,9 +1,11 @@
 # Weekly Project Updates
 
-### Week 6 (2023-07-03 -- 2023-07-09)
+### Week 7 (2023-07-03 -- 2023-07-09)
+
+### Week 6 (2023-06-26 -- 2023-07-02)
 I am officially back on track this week. Given this is the mid-point of the semester, I am approximately halfway through the Langchain Handbook content. I spent the end of last week and this week getting caught up - including reading through Chapter 3 and working the accompanying examples in a code workbook that is committed to github.
 
-### Week 5 (2023-06-19 -- 2023-07-02)
+### Week 5 (2023-06-19 -- 2023-06-25)
 It was a scramble, but I caught up this week. I worked all the way through Chapter 3 of the Langchain handbook and completed Jupyter notebooks for all of the material. All updates are pushed to the github repo linked on my main page.
 
 ### Week 4 (2023-06-12 -- 2023-06-18)
