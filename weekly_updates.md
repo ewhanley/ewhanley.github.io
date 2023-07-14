@@ -1,6 +1,7 @@
 # Weekly Project Updates
 
 ### Week 7 (2023-07-03 -- 2023-07-09)
+I read through all of the Chapter 4 conent on "Fixing Hallucination with Knowledge Bases". I couldn't finish the last third of the jupyter notebook. Unfortunately, Pinecone's servers seemed to be overwhelmed, and I couldn't auth even after generating a new api key. I will try again this weekend or spring for a paid version.
 
 ### Week 6 (2023-06-26 -- 2023-07-02)
 I am officially back on track this week. Given this is the mid-point of the semester, I am approximately halfway through the Langchain Handbook content. I spent the end of last week and this week getting caught up - including reading through Chapter 3 and working the accompanying examples in a code workbook that is committed to github.
