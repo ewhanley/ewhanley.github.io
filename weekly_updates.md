@@ -1,7 +1,12 @@
 # Weekly Project Updates
 
+### Week 8 (2023-07-10 -- 2023-07-16)
+I spent my time this week working through the second half of Chapter 4. As noted in last week's update, I hit a snag with Pinecone's free-tier servers. I was eventually able to auth this week, but then had to troubleshoot some problems. I was able to get through them. The issues were related to a mismatch between the Handbook content and the current state of Pinecone's API.
+
+This was actually a good learning opportunity because I really had to dig into the docs to figure out how to replicate what was created in the handbook. I successfully completed all steps of Chapter 4.
+
 ### Week 7 (2023-07-03 -- 2023-07-09)
-I read through all of the Chapter 4 conent on "Fixing Hallucination with Knowledge Bases". I couldn't finish the last third of the jupyter notebook. Unfortunately, Pinecone's servers seemed to be overwhelmed, and I couldn't auth even after generating a new api key. I will try again this weekend or spring for a paid version.
+I read through all of the Chapter 4 content on "Fixing Hallucination with Knowledge Bases". I couldn't finish the last third of the jupyter notebook. Unfortunately, Pinecone's servers seemed to be overwhelmed, and I couldn't auth even after generating a new api key. I will try again this weekend or spring for a paid version.
 
 ### Week 6 (2023-06-26 -- 2023-07-02)
 I am officially back on track this week. Given this is the mid-point of the semester, I am approximately halfway through the Langchain Handbook content. I spent the end of last week and this week getting caught up - including reading through Chapter 3 and working the accompanying examples in a code workbook that is committed to github.
