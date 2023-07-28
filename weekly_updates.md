@@ -1,5 +1,8 @@
 # Weekly Project Updates
 
+### Week 9 (2023-07-17 -- 2023-07-23)
+This was a hands-on application of learning week. I did not read a chapter or work through tutorials. I implemented exactly what I've been learning for a project at work. I used the LangChain library and OpenAI API to build a feature in an application that enables users to use embeddings from OpenAI to ask questions about local text files. The feature works really well and used nearly everything I have learned in this class so far this semester.
+
 ### Week 8 (2023-07-10 -- 2023-07-16)
 I spent my time this week working through the second half of Chapter 4. As noted in last week's update, I hit a snag with Pinecone's free-tier servers. I was eventually able to auth this week, but then had to troubleshoot some problems. I was able to get through them. The issues were related to a mismatch between the Handbook content and the current state of Pinecone's API.
 
