@@ -1,5 +1,8 @@
 # Weekly Project Updates
 
+### Week 10 (2023-07-24 -- 2023-07-30)
+This week I read the first section of Chapter 5 (AI Agents) covering an overview of what Agents are. Agents enable LLMs to interact with and use tools to solve more complex problems. One example is plugging in tools that can perform math functions. This augmentation improves the base outputs of math queries - queries that frequently return the wrong answer when relying solely on the base LLM. Next week I will finish Chapter 5 and the accompanying exercises.
+
 ### Week 9 (2023-07-17 -- 2023-07-23)
 This was a hands-on application of learning week. I did not read a chapter or work through tutorials. I implemented exactly what I've been learning for a project at work. I used the LangChain library and OpenAI API to build a feature in an application that enables users to use embeddings from OpenAI to ask questions about local text files. The feature works really well and used nearly everything I have learned in this class so far this semester.
 
