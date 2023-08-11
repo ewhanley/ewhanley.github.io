@@ -1,5 +1,8 @@
 # Weekly Project Updates
 
+### Week 11 (2023-07-31 -- 2023-08-06)
+This week I finished reading Chapter 5 of the LangChain handbook covering AI Agents. I attempted to work through the LangChain tutorial, but I have exhausted my API calls with OpenAI. I have pushed as far as I got in the tutorial to github, and I'll finish it once I am back under my request quota. I am in a good spot to get close to wrapping up my goals for the semester and feel like the hands-on implemntation at work was as valuable as anything else I've done during the course of this project.
+
 ### Week 10 (2023-07-24 -- 2023-07-30)
 This week I read the first section of Chapter 5 (AI Agents) covering an overview of what Agents are. Agents enable LLMs to interact with and use tools to solve more complex problems. One example is plugging in tools that can perform math functions. This augmentation improves the base outputs of math queries - queries that frequently return the wrong answer when relying solely on the base LLM. Next week I will finish Chapter 5 and the accompanying exercises.
 
